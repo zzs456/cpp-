@@ -1,0 +1,11 @@
+﻿  main.cpp
+  manager.cpp
+  student.cpp
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\ComputerRoomReservationSystem\ComputerRoomReservationSystem\student.cpp(70,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\ComputerRoomReservationSystem\ComputerRoomReservationSystem\student.cpp(75,25): warning C4018: “<=”: 有符号/无符号不匹配
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\ComputerRoomReservationSystem\ComputerRoomReservationSystem\student.cpp(200,29): warning C4018: “<=”: 有符号/无符号不匹配
+  teacher.cpp
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\ComputerRoomReservationSystem\ComputerRoomReservationSystem\teacher.cpp(98,29): warning C4018: “<=”: 有符号/无符号不匹配
+  正在生成代码...
+  LINK : 没有找到 D:\Y7000P\大学\编程语言C++\项目练习\入门练习\ComputerRoomReservationSystem\Debug\ComputerRoomReservationSystem.exe 或上一个增量链接没有生成它；正在执行完全链接
+  ComputerRoomReservationSystem.vcxproj -> D:\Y7000P\大学\编程语言C++\项目练习\入门练习\ComputerRoomReservationSystem\Debug\ComputerRoomReservationSystem.exe
