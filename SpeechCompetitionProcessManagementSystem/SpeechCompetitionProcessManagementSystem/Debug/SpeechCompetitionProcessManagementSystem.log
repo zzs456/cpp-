@@ -1,0 +1,23 @@
+﻿  main.cpp
+  speechManager.cpp
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\SpeechCompetitionProcessManagementSystem\SpeechCompetitionProcessManagementSystem\speechManager.cpp(39,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\program files\VS2019\VC\Tools\MSVC\14.28.29910\include\numeric(35,26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\program files\VS2019\VC\Tools\MSVC\14.28.29910\include\numeric(44): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\SpeechCompetitionProcessManagementSystem\SpeechCompetitionProcessManagementSystem\speechManager.cpp(132): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,float>(const _InIt,const _InIt,_Ty)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>
+          ]
+  正在生成代码...
+  SpeechCompetitionProcessManagementSystem.vcxproj -> D:\Y7000P\大学\编程语言C++\项目练习\入门练习\SpeechCompetitionProcessManagementSystem\Debug\SpeechCompetitionProcessManagementSystem.exe
