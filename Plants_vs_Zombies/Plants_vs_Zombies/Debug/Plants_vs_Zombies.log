@@ -1,0 +1,27 @@
+﻿  main.cpp
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(168,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(311,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(314,72): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(314,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(356,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(424,50): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(424,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(442,38): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(442,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(460,50): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(460,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(540,69): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(540,41): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(761,55): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(763,29): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(764,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(793,90): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(792,37): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(794,59): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(794,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(795,58): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(795,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(799,25): warning C4305: “=”: 从“double”到“float”截断
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(831,30): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Plants_vs_Zombies\main.cpp(833,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Plants_vs_Zombies.vcxproj -> D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Plants_vs_Zombies\Debug\Plants_vs_Zombies.exe
