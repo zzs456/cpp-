@@ -1,0 +1,5 @@
+﻿  Tetris.cpp
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Tetris\Tetris\Tetris.cpp(245,10): warning C4244: “return”: 从“unsigned __int64”转换到“int”，可能丢失数据
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Tetris\Tetris\Tetris.cpp(283,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Tetris\Tetris\Tetris.cpp(284,21): warning C4018: “<”: 有符号/无符号不匹配
+  Tetris.vcxproj -> D:\Y7000P\大学\编程语言C++\项目练习\入门练习\Tetris\Debug\Tetris.exe
